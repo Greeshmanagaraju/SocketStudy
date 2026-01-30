@@ -80,9 +80,9 @@ c.close()
 ```
 ## Output:
 
-<img width="1914" height="1016" alt="image" src="https://github.com/user-attachments/assets/578ef464-bf07-4592-b376-1cb6d1a4ea5b" />
-
 <img width="1919" height="1015" alt="image" src="https://github.com/user-attachments/assets/6a2bf0e6-add6-440e-8026-6535dff47774" />
+
+<img width="1914" height="1016" alt="image" src="https://github.com/user-attachments/assets/578ef464-bf07-4592-b376-1cb6d1a4ea5b" />
 
 ## Result:
 Thus the study of Socket Programming Completed Successfully
